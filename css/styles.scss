@@ -730,7 +730,7 @@ $bg-fourtiary: #e5dcd3;
     }
 
     .es-description {
-      padding-top: 50px;
+      padding-top: 130px;
       display: -webkit-box;
       display: flex;
       -webkit-box-orient: horizontal;
@@ -749,6 +749,7 @@ $bg-fourtiary: #e5dcd3;
 
       &__right {
         max-width: 310px;
+        margin-top: -90px;
         margin-right: 8%;
       }
 
